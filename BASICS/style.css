@@ -1,0 +1,26 @@
+img {width: 250px;
+height: 200px;
+}
+
+.data-1{
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.data-2{
+    color: blueviolet;
+    font-weight: bolder;
+    font-size: x-large;
+    font-style: italic;
+}
+
+.data-3{
+    color: aqua;
+    font-weight: bolder;
+    font-size: smaller;
+}
+
+.data-4{
+    color: blue;
+}
